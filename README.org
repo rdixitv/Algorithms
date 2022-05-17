@@ -5,3 +5,8 @@
 Input: list, sum number.
 
 The program will iterate through the list and output a vector containing two integers that add up to the sum number.
+
+* Check if Palindrome
+Input - unsigned 32 bit integer
+
+Check if a given number is a palindrome
